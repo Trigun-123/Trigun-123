@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Trigun Gurumurti</h1>
 
-<!--
-**Trigun-123/Trigun-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Trigun-123&&style=flat-square" align="center" />
+</div>
+<br>
 
-Here are some ideas to get you started:
+- Currently pursuing B.Tech in Computer Science and Engineering (CSE) at PES University, Bengaluru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triguntamragouri@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/trigungurumurti)
+<br>
+
+<h3 align="left">Skills:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,html,css,bootstrap,js,react,nodejs,c,python,git&theme=dark)](https://github.com/Trigun-123)
+
+#
+
+<h3 align="center">Github Stats</h3>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Trigun-123&border_radius=10&theme=dracula" alt="Trigun-123" /> 
+</div>
+<h3 align="center">Github Streak</h3>
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Trigun-123&theme=dracula&border_radius=10&fire=DD2727" alt="Trigun-123" />
+</div>  
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+#
