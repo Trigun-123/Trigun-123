@@ -15,7 +15,7 @@
 
 <h3 align="left">Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,html,css,bootstrap,js,react,nodejs,c,python,git&theme=dark)](https://github.com/Trigun-123)
+[![My Skills](https://skillicons.dev/icons?i=cpp,git,github,html,css,bootstrap,js,react,nodejs,c,python,&theme=dark)](https://github.com/Trigun-123)
 
 #
 
