@@ -23,10 +23,6 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Trigun-123&border_radius=10&theme=dracula" alt="Trigun-123" /> 
 </div>
-<h3 align="center">Github Streak</h3>
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Trigun-123&theme=dracula&border_radius=10&fire=DD2727" alt="Trigun-123" />
-</div>  
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
