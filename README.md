@@ -24,7 +24,7 @@
   <img src="https://leetcard.jacoblin.cool/Trigun_2005?" alt="LeetCode Stats" align="center" width="400" />
 </div>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Trigun-123&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="GitHub Stats" />
 </div>
