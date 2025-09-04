@@ -19,6 +19,11 @@
 
 #
 
+<h3 align="center">LeetCode Stats</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Trigun_2005?" alt="LeetCode Stats Card" align="center" width="400" />
+</div>
+
 <h3 align="center">Github Stats</h3>
 <div align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Trigun-123&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="Trigun-123" />
