@@ -21,7 +21,7 @@
 
 <h3 align="center">LeetCode Stats</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Trigun_2005?" alt="LeetCode Stats" align="center" width="400" />
+  <img src="https://leetcard.jacoblin.cool/Trigun_2005?ext=contest" alt="LeetCode Contest Stats" align="center" width="400" />
 </div>
 
 <h3 align="center">GitHub Stats</h3>
