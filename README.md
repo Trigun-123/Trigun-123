@@ -5,7 +5,7 @@
 </div>
 <br>
 
-- Currently pursuing B.Tech in Computer Science and Engineering (CSE) at PES University, Bengaluru.
+- Currently pursuing B.Tech in Computer Science and Engineering at PES University, Bengaluru.
 
 <h3 align="left">Connect with me:</h3>
 
